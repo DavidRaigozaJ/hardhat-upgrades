@@ -1,5 +1,7 @@
 # hardhat-upgrades
 
+here we learn how a smart contract can be upgraded, using proxy.
+
 # #  QuickStart
 
 ```
